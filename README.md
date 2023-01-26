@@ -1,6 +1,4 @@
 <div align="center">
-
-![shark](https://capsule-render.vercel.app/api?type=shark&color=gradient&height=140)
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oleo+Script&color=9D9ED2&size=80&center=true&vCenter=true&width=900&height=100&lines=%E3%80%80%E3%80%80Game+Developer+DaeHyun+%E3%80%80%E3%80%80)](https://git.io/typing-svg)
 
