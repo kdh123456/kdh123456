@@ -27,7 +27,7 @@
 
 ## 💁 Explain Me </br></br>
 
-<a href = "jetmax68@gmail.com">
+<a href = "mailto:jetmax68@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" height = "30">
 <br>
 <a href = "https://www.youtube.com/channel/UCid8GbQ31Ni-JS0apEtrqIg/videos">
