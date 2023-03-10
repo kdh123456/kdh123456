@@ -31,10 +31,8 @@
 <p align="center">
 <a href = "mailto:jetmax68@gmail.com"></a>
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" height = "30">
-<a href = "https://www.youtube.com/channel/UCid8GbQ31Ni-JS0apEtrqIg/videos">
+<a href = "https://www.youtube.com/channel/UCWHaz7ClSJVET50exFoCMSA">
 <img src="https://img.shields.io/badge/YouTube-FF4848?style=for-the-badge&logo=YouTube&logoColor=white" height = "30"></a>
 <a href = "http://ggm.gondr.net/user/profile/126"><img src="https://img.shields.io/badge/Potfolio-FAED7D?style=for-the-badge&logo=Potfolio&logoColor=white" height = "30"></a>
-<a href = "https://minyoung529.tistory.com/">
-<img src="https://img.shields.io/badge/Blog-111111?style=for-the-badge&logo=Blog&logoColor=black" height = "30">
 </a>
 <figcaption align="center">
